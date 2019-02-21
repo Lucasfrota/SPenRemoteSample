@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S Pen Remote Sample</string>
+
+    <string name="scroll_down">Scroll down</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="start_activity">Start Activity</string>
+</resources>

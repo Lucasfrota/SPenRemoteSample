@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remote-actions version="1.0">
+    <action
+        id="scroll_down"
+        label="@string/scroll_down"
+        priority="1"
+        trigger_key="PAGE_DOWN">
+    </action>
+
+    <action
+        id="scroll_up"
+        label="@string/scroll_up"
+        priority="2"
+        trigger_key="PAGE_UP">
+    </action>
+
+    <action
+        id="start_activity"
+        label="@string/start_activity"
+        priority="3"
+        trigger_key="CTRL_LEFT+N">
+    </action>
+</remote-actions>
